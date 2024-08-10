@@ -17,3 +17,6 @@ db.sqlite3
 
 # Media files
 /media/
+
+# Migrations
+/migrations
