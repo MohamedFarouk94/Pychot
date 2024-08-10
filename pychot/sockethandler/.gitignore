@@ -1,0 +1,19 @@
+# Virtual environment
+myenv/
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# Django stuff:
+*.log
+*.pot
+
+# Database
+db.sqlite3
+
+# Static files
+/static/
+
+# Media files
+/media/
