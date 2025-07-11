@@ -1,5 +1,7 @@
 # Pychot 🧠💬
 
+![- Hello there. - General Kenobi!!](https://i.ibb.co/pjjC4cQX/kenobi.jpg)
+
 **Pychot** is a secure and lightweight chat server and client application built with Django, Django Channels, Redis, and Tkinter. It features real-time messaging, authentication, and chat history management.
 
 ---
